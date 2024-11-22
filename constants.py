@@ -1,0 +1,22 @@
+RANDOM_QUESTIONS = [
+    "What is the capital of Italy?",
+    "Who is the CEO of Tesla?",
+    "What is 10 divided by 2?",
+    "What is the chemical symbol for water?",
+    "Who wrote 'Romeo and Juliet'?",
+    "What year did World War II end?",
+    "What is the square root of 64?",
+    "What is the tallest mountain in the world?",
+    "What is the smallest prime number?",
+    "Who painted the Mona Lisa?",
+    "What is the currency of Japan?",
+    "What is 5 factorial (5!)?",
+    "What planet is known as the Red Planet?",
+    "What is the freezing point of water in Celsius?",
+    "What language is primarily spoken in Brazil?",
+    "How many legs does a spider have?",
+    "What is the speed of light in vacuum (in m/s)?",
+    "What is the most spoken language in the world?",
+    "What is the largest ocean on Earth?",
+    "What is the capital city of Canada?"
+]
